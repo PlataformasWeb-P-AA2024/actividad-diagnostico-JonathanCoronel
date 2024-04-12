@@ -1,6 +1,6 @@
 # Actividad Diagnóstico
 
-a
+
 ### 1. ¿Qué lenguajes de programación a usado?
 java,python,Scala,typescript,sql,php
 ### 2. ¿Qué comandos conoce de GIT?
@@ -49,7 +49,20 @@ El comando pwd sirve para ver la ruta en la que estoy ubicado.
 </div>
 
 ### 8. Ejemplifique el comando de Linux: touch
+El comando touch sirve para cambiar manualmente la fecha y hora de la última modificación y acceso de un archivo, pero también se utiliza para crear archivos nuevos. 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20pwd.png" width="800px">
+</p>
+</div>
+
 ### 9. Ejemplifique el comando de Linux: grep
+El comando grep permite buscar palabras o cadenas de texto en archivos o en la entrada estándar de la terminal. 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20pwd.png" width="800px">
+</p>
+</div>
 
 ### 10. Ejemplifique el comando de Linux: cd
 El comando cd permite cambiar de un directorio a otro de forma rapida.
