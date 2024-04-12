@@ -1,6 +1,6 @@
 # Actividad Diagnóstico
 
-
+a
 ### 1. ¿Qué lenguajes de programación a usado?
 java,python,Scala,typescript,sql,php
 ### 2. ¿Qué comandos conoce de GIT?
